@@ -1,4 +1,4 @@
 interface Shape {
-    computeArea():number;
+    computeArea():number; // add computeArea()
     
 }
